@@ -86,6 +86,7 @@ PLINKO-1/
 ├── index.html
 └── README.md
 ```
+---
 
 ## Licença
 
